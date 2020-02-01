@@ -1,4 +1,4 @@
-#Open, high and low: writing classes in SuperCollider.
+# Open, high and low: writing classes in SuperCollider.
 
 ICLC 2020 Workshop
 
