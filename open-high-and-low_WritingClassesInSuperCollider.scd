@@ -7,6 +7,8 @@ Open, High and Low: Writing classes in SuperCollider
 // ICLC 2020, Limerick
 
 Hernani Villaseñor
+// Gradute Muisc Program
+// Music Faculty, UNAM (Mexico)
 // hernani.vr@gmail.com
 
 
@@ -23,7 +25,7 @@ Hernani Villaseñor
 
 // When we understand how it works, maybe we want to develope our own tools or customize the program.
 
-// It is possible to see how SuperCollider is programed because it is and Open Source and Free Software.
+// It is possible to see how SuperCollider is programed because it is an Open Source and Free Software.
 
 // Why not to start to program some structures?
 
@@ -44,11 +46,11 @@ Hernani Villaseñor
 
 // What is a Class in SuperCollider?
 
-// First, SuperCollider is an Object Orientd Programming paradigm (OOP), that means that the languge is composed by objects that respond to messages. These obejcts can comunicate with each other.
+// First, SuperCollider is an Object Oriented Programming paradigm (OOP), that means that the languge is composed by objects that respond to messages. These objects can comunicate with each other.
 
-// A class is a mold, blueprint or template to make objects. A class contains the description and the behaivor of an object. It describes the object data and it interface.
+// A class is a mold, blueprint or template to make objects. A class contains the description and the behaivor of an object. It describes the object data and its interface.
 
-// Elements of and steps to program a class:
+// Elements and steps to program a class:
 
 // 1. Name of the class or class definition: this is the name of the class and begins with an uppercase. A pair of curly brackets contain the elements of the class as variables, methods and arguments.
 
@@ -84,7 +86,7 @@ Platform.systemExtensionDir; // available for all users
 
 instanceMethod { }
 
-// 5. The caret ^ or return symbol indicates what message, value or thing returns the a method when it is called. This symbol is written at the end of a method. When no return is specified the method returns the class or the instance itself.
+// 5. The caret ^ or return symbol indicates what message, value or thing returns a method when it is called. This symbol is written at the end of a method. When no return is specified the method returns the class or the instance itself.
 
 ^"hello" // return of the word hello
 
