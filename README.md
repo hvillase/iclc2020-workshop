@@ -9,3 +9,6 @@ By Hernani Villaseñor Ramírez
 Room Design Lab CSIS.
 
 University of Limerick
+
+## Warning
+Errors during  the process of writing classes in SuperCollider could interrupt the compilation process of sclang when you Recompile the Class Library, this could make SuperCollider inoperable. If happens you will see an error message and the SuperCollider will not start. To make functional SuperCollider again: 1) find and fix the error in your class 2) comment all the code inside you class, with the code inside this comment symbols /* */ and back to fix the error later 3) take away of the compilation path the folder that contains the error class.  
